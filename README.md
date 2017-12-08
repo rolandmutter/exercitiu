@@ -1,1 +1,2 @@
 # exercitiu
+Something to READ
